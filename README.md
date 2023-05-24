@@ -1,4 +1,5 @@
 # Data Structures & Algorithms in Java
+This repository contains implementations of various data structures and algorithms in Java. It serves as a reference and learning resource for understanding fundamental concepts and solving common problems in computer science.
 
 ## Table of Contents
 
@@ -24,3 +25,11 @@
     - [Backtracking](Algorithms/Backtracking)
     - [Branch & Bound](Algorithms/BranchBound)
     - [String Matching](Algorithms/StringMatching)
+
+## Contributing
+Contributions to this repository are welcome! If you find any bugs, have suggestions for improvements, or would like to add new data structures or algorithms, feel free to open an issue or submit a pull request. Please make sure to follow the contribution guidelines.
+
+## License
+This repository is licensed under the MIT License. Feel free to use the code for educational purposes, personal projects, or any other applicable use cases.
+
+Enjoy learning and exploring the world of data structures and algorithms in Java!
