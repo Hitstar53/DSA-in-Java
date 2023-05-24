@@ -1,7 +1,5 @@
 # Algorithms in Java
 
-# Algorithms
-
 Welcome to the Algorithms folder of this repository. This folder contains implementations of various algorithms in Java. Algorithms play a crucial role in solving computational problems efficiently and are an essential part of software development. This collection of algorithms covers a wide range of topics and provides solutions to various computational challenges.
 
 ## Table of Contents
